@@ -4,7 +4,8 @@ body{
     margin-left: 20px;
 }
 section{
-    padding-left: 5%;
+    padding-left: 8%;
+    margin: top 80px;
     
 }
 .flexible-container{
@@ -31,6 +32,7 @@ section{
     padding: 13px;
     text-decoration: none;
     border-radius: 10px;
+   
 }
 #h5-con{
     margin-top: 50px;
@@ -39,7 +41,19 @@ section{
     width: 35%;
     box-shadow: 10px;
     background-color: palegreen;
-    padding-left: 2%;
-    margin-left: 10px;
+    padding: 2%;
+    margin: 10px;
+    border-radius: 10px;
 }
+.mission-item img{
+    width: 60%;
+}
+.down-cointaner{
+        text-align: center;
+        margin-top: 100px;
+        background-color: black;
+        color: blanchedalmond;
+        padding: 15px;
+}
+
 
