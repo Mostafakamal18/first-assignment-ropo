@@ -10,6 +10,7 @@ section{
 }
 h1{
     font-size: 30px;
+    margin-left: 4px;
 }
 .flexible-container{
 
@@ -19,6 +20,8 @@ h1{
 .top-container{
     border-left: 4px solid rgb(247, 76, 46);
     margin-top: 80px;
+    line-height: 20px;
+    
     
 }
 .tomato{
