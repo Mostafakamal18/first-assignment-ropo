@@ -8,6 +8,9 @@ section{
     margin: top 80px;
     
 }
+h1{
+    font-size: 30px;
+}
 .flexible-container{
 
     display: flex;
@@ -50,7 +53,7 @@ section{
 }
 .down-cointaner{
         text-align: center;
-        margin-top: 100px;
+        margin-top: 150px;
         background-color: black;
         color: blanchedalmond;
         padding: 15px;
