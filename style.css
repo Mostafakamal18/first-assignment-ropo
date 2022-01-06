@@ -1,4 +1,31 @@
 body{
     margin: 0;
-    font-family: cursive;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
+}
+section{
+    display: flex;
+}
+.top-container{
+    border-left: 4px solid rgb(247, 76, 46);
+    margin-top: 80px;
+    
+}
+.tomato{
+    color: tomato;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 75%;
+}
+.button{
+    background-color: orange;
+    padding: 13px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+#h5-con{
+    margin-top: 50px;
 }
